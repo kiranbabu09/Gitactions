@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  text-align: center;
+  background: #f0f0f0;
+}
+header {
+  background: #b30000;
+  color: white;
+  padding: 1rem;
+}
+main {
+  padding: 2rem;
+}
+button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  background-color: #ff4d4d;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+#status {
+  font-weight: bold;
+  color: green;
+}
+footer {
+  margin-top: 2rem;
+  color: #555;
+}
